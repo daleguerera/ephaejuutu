@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ageilicoh.hilapeleg.io/sitemap.xml
